@@ -2,7 +2,7 @@
 Simulation study in paper 3
 ===========================
 
-Path on Mac = /Users/allanclark/Documents/AllanClark/Stats/Research/Clark_AE/PhD/Paper3/EURINGmanuscript/Analysis 
+#Path on Mac = /Users/allanclark/Documents/AllanClark/Stats/Research/Clark_AE/PhD/Paper3/EURINGmanuscript/Analysis 
 
 Here I investigate the efficiency of three algorithms to underake Bayesian estimation of the single season occupancy model. I consider the use of jags, the dRUM algorithm as well as the use of the Polya Gamma random variables. I specifically consider the use of logit link functions.
 
