@@ -1,4 +1,4 @@
-setwd("~/Documents/AllanClark/Stats/Research/Clark_AE/PhD/Paper3/EURINGmanuscript/Analysis/SimulationStudy")
+#setwd("~/Documents/AllanClark/Stats/Research/Clark_AE/PhD/Paper3/EURINGmanuscript/Analysis/SimulationStudy")
   
 median.stats<-function(working){
   W<-working
