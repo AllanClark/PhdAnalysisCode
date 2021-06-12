@@ -1,4 +1,4 @@
-setwd("~/Research/logit_occ/OfficeCluster")
+#setwd("~/Research/logit_occ/OfficeCluster")
 #-------------------------------------------------------------------------------
 
 #Windows version
